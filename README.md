@@ -6,7 +6,7 @@ This course has 2 focuses: on **Matemathical derivation** of models and **Python
 The course is split into 5 parts:
 
 * Part I: Feature Maps and Single Neural Networks
-* Part II: Logistic Regression (GDA) and Poission
+* Part II: Logistic Regression (GDA) and Poission Regression
 * Part III: Constructing Kernels
 * Part IV: Naive Bayes for Spam classification and ANN used for MNIST classfication
 * Part V: Gaussian Mixture Models (GMM) and K-means
